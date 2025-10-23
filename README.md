@@ -30,10 +30,10 @@ O formulário de cadastro é apenas ilustrativo (sem envio de dados real), servi
 ```bash
 /
 ├── index.html
-├── /assets
-│   ├── /images        # Imagens usadas no site
-│   └── /styles
-│       ├── style.scss # Arquivo principal do SASS
-│       └── style.css  # CSS gerado após compilação
+├── /assets 
+│   ├── /images 
+│   └── /styles 
+│       ├── style.scss
+│       └── style.css
 └── README.md
 ```
