@@ -4,7 +4,12 @@ O **Ação Verde** é um projeto simples desenvolvido para **praticar o uso do S
 Ele foi criado com base em um design feito no Figma e tem como foco o front-end — **não possui nenhum back-end por trás**.
 
 ---
+## 🔗 Veja o projeto no ar!
 
+O site está hospedado no GitHub Pages e pode ser acessado aqui:
+**[https://layssamartins.github.io/projetosustentavel/](https://layssamartins.github.io/projetosustentavel/)**
+
+---
 ## 💡 Sobre o projeto
 
 O site representa uma ação de voluntariado ambiental, incentivando as pessoas a se cadastrarem como voluntárias em atividades como:
